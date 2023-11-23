@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ThirtyDays</string>
+
+    <string name="day1Description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</string>
+
+    <string name="title1">Title 1</string>
+
+    <string name="task1">Task 1</string>
+
+
+</resources>
